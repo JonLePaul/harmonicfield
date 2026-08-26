@@ -1,0 +1,6 @@
+{
+  "name": "Harmonic Field",
+  "description": "Adaptive somatic audio-visual experience for daily micro-field realignments, Solfeggio frequency stabilization, sacred geometry, voice control, and somatic insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
